@@ -407,14 +407,16 @@
 
 .card-inner.card-started .title span {
 	padding-right: 15px;
-	opacity: 0.5;
+	/* opacity: 0.5; */
+	color: #72addd;
 }
 
 .card-inner.card-started .subtitle {
 	margin: 0;
-	font-size: 20px;
-	line-height: 20px;
-	font-weight: 200;
+	font-size: 25px;
+	line-height: 25px;
+	font-weight: 600;
+	color: #72addd;
 }
 
 .card-inner.card-started .subtitle p {
