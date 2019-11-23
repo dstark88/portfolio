@@ -1,3 +1,3 @@
 # Portfolio
 Resume
-https://dstark88.github.io/Portfolio/
+https://dstark88.github.io/portfolio/
