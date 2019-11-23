@@ -408,7 +408,7 @@
 .card-inner.card-started .title span {
 	padding-right: 15px;
 	/* opacity: 0.5; */
-	color: #72addd;
+	color: #65b4f3;
 }
 
 .card-inner.card-started .subtitle {
@@ -416,7 +416,7 @@
 	font-size: 25px;
 	line-height: 25px;
 	font-weight: 600;
-	color: #72addd;
+	color: #65b4f3;
 }
 
 .card-inner.card-started .subtitle p {
@@ -989,9 +989,9 @@
 	padding: 0;
 	position: relative;
 	display: inline-block;
-	font-size: 12px;
-	line-height: 12px;
-	color: #777777;
+	font-size: 15px;
+	line-height: 15px;
+	color: #65b4f3;
 	font-weight: 400;
 }
 
@@ -1219,9 +1219,9 @@
 	padding: 0;
 	position: relative;
 	display: inline-block;
-	font-size: 12px;
-	line-height: 12px;
-	color: #777777;
+	font-size: 14px;
+	line-height: 14px;
+	color: #65b4f3;
 	font-weight: 400;
 }
 
