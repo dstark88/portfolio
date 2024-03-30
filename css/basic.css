@@ -496,8 +496,8 @@ strong {
 .button {
 	position: relative;
 	display: inline-block;
-	height: 56px;
-	line-height: 56px;
+	/* height: 56px; */
+	/* line-height: 56px; */
 	font-size: 14px;
 	color: #ffffff;
 	font-weight: 700;
@@ -509,13 +509,18 @@ strong {
 .lnk .icon,
 .button .icon {
 	position: relative;
-	top: 2px;
-	left: 2px;
+	/* top: 2px; */
+	/* left: 2px; */
 	font-size: 20px;
 	transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
+}
+
+.button .link {
+	font-size: 14px;
+	top: -8px;
 }
 
 .lnk:hover,
