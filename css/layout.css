@@ -995,6 +995,17 @@
 	font-weight: 400;
 }
 
+.resume-items .resume-item .simple {
+	margin: 0 0 0 0;
+	padding: 0;
+	position: relative;
+	display: inline-block;
+	font-size: 15px;
+	line-height: 15px;
+	color: #65b4f3;
+	font-weight: 400;
+}
+
 .resume-items .resume-item .date span {
 	padding: 0 5px;
 	display: inline-block;
